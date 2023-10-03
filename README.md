@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduado em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.ulbra.br/">Ulbra</a>.
+- 🎓 Graduado em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.ulbra.br/">ULBRA</a>.
 - 💼 Trabalhando na **EQUIPE GESTORA DO SISTEMA ANTIFRAUDE** no <a href="https://www.banrisul.com.br">BANRISUL</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS E FRAMEWORKS DE BACK-END E FRONT-END**.
 
@@ -11,7 +11,7 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -39,6 +39,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciandalla&theme=dracula&show_icons=true" />
 </a>
 
+<br/>
+
+[![luciandalla](https://github-readme-stats.vercel.app/api/top-langs/?username=luciandalla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucian-maciel)](https://br.linkedin.com/in/lucian-maciel)
+[![Linkedin](https://img.shields.io/badge/-luciandalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucian-maciel)](https://br.linkedin.com/in/lucian-maciel)
