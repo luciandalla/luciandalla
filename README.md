@@ -36,7 +36,7 @@
 <br/>
 
 <a href="https://github.com/luciandalla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciandalla&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
