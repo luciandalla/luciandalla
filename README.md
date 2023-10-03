@@ -5,13 +5,13 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Graduado em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.ulbra.br/">ULBRA</a>.
 - 💼 Trabalhando na **EQUIPE GESTORA DO SISTEMA ANTIFRAUDE** no <a href="https://www.banrisul.com.br">BANRISUL</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS E FRAMEWORKS DE BACK-END E FRONT-END**.
+- 🌱 Aprendendo mais sobre **TECNOLOGIAS E FRAMEWORKS DE BACK-END E FRONT-END**.
 
 <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=1572B6)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
