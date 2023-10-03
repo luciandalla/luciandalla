@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=luciandalla&color=006bed)
-
 <h2>Sobre mim</h2>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -46,3 +44,5 @@
 <br/><h2>Onde me encontrar</h2>
 
 [![Linkedin](https://img.shields.io/badge/-luciandalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucian-maciel)](https://br.linkedin.com/in/lucian-maciel)
+![](https://komarev.com/ghpvc/?username=luciandalla&color=006bed)
+
