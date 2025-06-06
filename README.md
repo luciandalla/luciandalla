@@ -1,9 +1,9 @@
 <h2>Sobre mim</h2>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduado em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.ulbra.br/">ULBRA</a>.
+- 🤔 Explorando novas tecnologias e assuntos relacionados a Cibersegurança.
+- 🎓 Graduado em **CIÊNCIA DA COMPUTAÇÃO** na <a href="https://www.ulbra.br/">ULBRA</a>. Pós-graduado em Segurança da Informação, Forense Digital e IoT na UNIUBE.
 - 💼 Trabalhando na **EQUIPE GESTORA DO SISTEMA ANTIFRAUDE** no <a href="https://www.banrisul.com.br">BANRISUL</a>
-- 🌱 Aprendendo mais sobre **TECNOLOGIAS E FRAMEWORKS DE BACK-END E FRONT-END**.
+- 🌱 Aprendendo mais sobre **CIBERSEGURANÇA**.
 
 <br/><h2>Minhas Skills</h2>
 
